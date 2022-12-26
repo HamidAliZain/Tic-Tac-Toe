@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-image: linear-gradient(to right, #7F00FF, #5D3FD3, #7F00FF);
+    font-family: 'Andika', sans-serif;
+
+    color: White;
+}
+
+.bacPurpke {
+    background-color: #5D3FD3;
+}
+
+.cell {
+    color: yellow;
+    font-family: 'Kumar One Outline', ;
+}
